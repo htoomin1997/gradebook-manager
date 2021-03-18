@@ -1,0 +1,25 @@
+.grade-card {
+    width: 40%;
+    box-shadow: 1px 2px 1px black;
+    color: white;
+    background-color: #424242;
+    border-style: solid;
+    border-color: #424242;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.button-container {
+    text-align: right;
+}
+
+.delete-button-container {
+    text-align: right;
+}
+
+.divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
+}
